@@ -1,2 +1,2 @@
 # Tweetgenerator
-Integrative Project Tweets generetor
+Integrative Project Tweets generator
